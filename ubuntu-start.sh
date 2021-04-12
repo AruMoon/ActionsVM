@@ -7,5 +7,4 @@
 
 # Install the tools you need to use
 sudo apt update && sudo apt -y upgrade
-sudo apt install -y neofetch
-sudo apt install -y htop
+sudo apt install -y neofetch htop
