@@ -6,5 +6,5 @@
 #sudo timedatectl set-timezone "Asia/Shanghai"
 
 # Install the tools you need to use
-sudo apt update && sudo apt -y upgrade
-sudo apt install -y neofetch htop
+sudo apt update && sudo apt -y upgrade >/dev/null &
+sudo apt install -y neofetch htop >/dev/null &
